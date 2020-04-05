@@ -1,0 +1,7 @@
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/config/SecurityWebApplicationInitializer.java
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/controller/AdminController.java
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/controller/AccessController.java
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/controller/HomeController.java
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/config/ServletConfigDispatcherServlet.java
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/config/WebSecurityConfig.java
+/home/donatas/eclipse-workspace/ss/src/main/java/lt/viko/eif/donatas/config/WebAppConfig.java

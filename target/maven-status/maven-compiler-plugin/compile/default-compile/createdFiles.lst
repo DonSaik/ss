@@ -1,0 +1,7 @@
+lt/viko/eif/donatas/controller/AdminController.class
+lt/viko/eif/donatas/config/SecurityWebApplicationInitializer.class
+lt/viko/eif/donatas/controller/AccessController.class
+lt/viko/eif/donatas/config/WebAppConfig.class
+lt/viko/eif/donatas/config/WebSecurityConfig.class
+lt/viko/eif/donatas/controller/HomeController.class
+lt/viko/eif/donatas/config/ServletConfigDispatcherServlet.class
